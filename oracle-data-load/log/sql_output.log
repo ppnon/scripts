@@ -1,0 +1,1121 @@
+-----------------------------------------------
+21/11/2013-20:15:56 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 20:15:56 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/12/2013)
+Periodo [31/12/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 20:15:57 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/12/2013): 21/11/2013 20:14:51
+RESULT:done
+TIME: 7,17 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 20:16:04 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/12/2013): 21/11/2013 20:14:59
+RESULT:done
+TIME: 24,89 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 20:16:29 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/12/2013): 21/11/2013 20:15:24
+RESULT:done
+TIME: 3,99 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:12:30 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:12:34 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP2-0310: unable to open file "/home/colebatch/avales2/tmp/P201312/.sql"
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:13:58 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:13:58 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/12/2013)
+Periodo [31/12/2013]:
+\tAvales:\t\t1490
+\tRechazados:\t8510
+\tSaldos:\t\t1798
+\tRechazados:\t98202
+\tTotal:\t\t110000
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:02 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ELIM_PRDO(31/12/2013)
+RESULT:done
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:05 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/12/2013): 21/11/2013 21:12:59
+RESULT:done
+TIME: 4,36 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:09 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/12/2013): 21/11/2013 21:13:04
+RESULT:done
+TIME: 22,01 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:31 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/12/2013): 21/11/2013 21:13:26
+RESULT:done
+TIME: 2,5 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:34 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/12/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201312_20131121091328.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:14:34 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/12/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201312_20131121091329.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:18:04 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:04 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/10/2013)
+Periodo [31/10/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:04 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/10/2013): 21/11/2013 21:16:59
+RESULT:done
+TIME: 3,51 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:08 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/10/2013): 21/11/2013 21:17:03
+RESULT:done
+TIME: 24,9 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:33 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/10/2013): 21/11/2013 21:17:28
+RESULT:done
+TIME: 3,63 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:37 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/10/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201310_20131121091731.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:18:37 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/10/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201310_20131121091732.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:21:11 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:11 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/10/2013)
+Periodo [31/10/2013]:
+\tAvales:\t\t1490
+\tRechazados:\t10000
+\tSaldos:\t\t1798
+\tRechazados:\t98202
+\tTotal:\t\t111490
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:17 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ELIM_PRDO(31/10/2013)
+RESULT:done
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:20 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/10/2013): 21/11/2013 21:20:14
+RESULT:done
+TIME: 3,74 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:23 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/10/2013): 21/11/2013 21:20:18
+RESULT:done
+TIME: 21,18 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:45 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/10/2013): 21/11/2013 21:20:39
+RESULT:done
+TIME: 2,59 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:47 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/10/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201310_20131121092042.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:21:48 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/10/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201310_20131121092042.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:25:42 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:25:42 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/10/2013)
+Periodo [31/10/2013]:
+\tAvales:\t\t1490
+\tRechazados:\t8510
+\tSaldos:\t\t1798
+\tRechazados:\t98202
+\tTotal:\t\t110000
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:25:46 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ELIM_PRDO(31/10/2013)
+RESULT:done
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:25:49 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/10/2013): 21/11/2013 21:24:44
+RESULT:done
+TIME: 4,31 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:25:54 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/10/2013): 21/11/2013 21:24:48
+RESULT:done
+TIME: 21,15 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:15 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/10/2013): 21/11/2013 21:25:10
+RESULT:done
+TIME: 2,58 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:18 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/10/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201310_20131121092512.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:18 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/10/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201310_20131121092513.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:26:27 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:33 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(30/09/2013)
+Periodo [30/09/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:34 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(30/09/2013): 21/11/2013 21:25:28
+RESULT:done
+TIME: 3,54 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:26:37 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(30/09/2013): 21/11/2013 21:25:32
+RESULT:done
+TIME: 23,5 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:27:01 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(30/09/2013): 21/11/2013 21:25:56
+RESULT:done
+TIME: 3,6 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:27:05 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(30/09/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201309_20131121092559.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:27:05 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(30/09/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201309_20131121092600.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:38:39 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:38:39 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(30/09/2013)
+Periodo [30/09/2013]:
+\tAvales:\t\t1490
+\tRechazados:\t10000
+\tSaldos:\t\t1798
+\tRechazados:\t98202
+\tTotal:\t\t111490
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:38:42 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ELIM_PRDO(30/09/2013)
+RESULT:done
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:38:46 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(30/09/2013): 21/11/2013 21:37:40
+RESULT:done
+TIME: 4,28 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:38:50 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(30/09/2013): 21/11/2013 21:37:45
+RESULT:done
+TIME: 25,29 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:39:15 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(30/09/2013): 21/11/2013 21:38:10
+RESULT:done
+TIME: 2,73 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:39:18 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(30/09/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201309_20131121093813.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:39:19 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(30/09/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201309_20131121093814.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:50:36 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:50:36 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/08/2013)
+Periodo [31/08/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:50:37 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/08/2013): 21/11/2013 21:49:31
+RESULT:done
+TIME: 4,27 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:50:41 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/08/2013): 21/11/2013 21:49:36
+RESULT:done
+TIME: 23,66 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:51:05 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/08/2013): 21/11/2013 21:49:59
+RESULT:done
+TIME: 3,75 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:51:09 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/08/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201308_20131121095003.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 21:51:09 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/08/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201308_20131121095004.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-21:54:59 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-21:56:03 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-21:57:07 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-21:57:52 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-22:02:41 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-22:03:10 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:10 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/07/2013)
+Periodo [31/07/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:10 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/07/2013): 21/11/2013 22:02:05
+RESULT:done
+TIME: 14,15 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:25 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/07/2013): 21/11/2013 22:02:19
+RESULT:done
+TIME: 26,44 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:51 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/07/2013): 21/11/2013 22:02:46
+RESULT:done
+TIME: 4 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:55 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/07/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201307_20131121100250.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:03:56 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/07/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201307_20131121100251.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+21/11/2013-22:05:25 - colebatch
+-----------------------------------------------
+-----------------------------------------------
+21/11/2013-22:05:29 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:05:29 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/07/2013)
+Periodo [31/07/2013]:
+\tAvales:\t\t1622
+\tRechazados:\t10000
+\tSaldos:\t\t1979
+\tRechazados:\t98021
+\tTotal:\t\t111622
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:05:32 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ELIM_PRDO(31/07/2013)
+RESULT:done
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:05:37 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/07/2013): 21/11/2013 22:04:32
+RESULT:done
+TIME: 3,95 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:05:41 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/07/2013): 21/11/2013 22:04:36
+RESULT:done
+TIME: 23,66 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:06:05 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/07/2013): 21/11/2013 22:05:00
+RESULT:done
+TIME: 2,83 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:06:08 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/07/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201307_20131121100503.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Thu Nov 21 22:06:08 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/07/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201307_20131121100503.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+-----------------------------------------------
+26/11/2013-16:57:13 - colebatch
+-----------------------------------------------
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:57:13 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_BUSC_PRDO(31/05/2013)
+Periodo [31/05/2013]:
+\tAvales:\t\t0
+\tRechazados:\t0
+\tSaldos:\t\t0
+\tRechazados:\t0
+\tTotal:\t\t0
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:57:16 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_AVAL(31/05/2013): 26/11/2013 16:56:10
+RESULT:done
+TIME: 32,35 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:57:48 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_CARG_SLDO(31/05/2013): 26/11/2013 16:56:43
+RESULT:done
+TIME: 58,94 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:58:47 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> ELPG_CARG_AVAL.ELPR_ACTU_AVAL(31/05/2013): 26/11/2013 16:57:42
+RESULT:done
+TIME: 4,56 segundos
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:58:52 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_AVAL(31/05/2013)
+RESULT:EFX_AVALISTAS_RECHAZADOS_201305_20131126045746.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL*Plus: Release 11.2.0.1.0 Production on Tue Nov 26 16:58:53 2013
+
+Copyright (c) 1982, 2009, Oracle.  All rights reserved.
+
+
+Connected to:
+Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
+
+SQL> SP: ELPG_CARG_AVAL.ELPR_GENE_FILE_RCHZ_SLDO(31/05/2013)
+RESULT:EFX_SALDOS_RECHAZADOS_201305_20131126045747.txt
+SQL> Disconnected from Oracle Database 11g Enterprise Edition Release 11.2.0.3.0 - 64bit Production
+With the Partitioning, OLAP, Data Mining and Real Application Testing options
