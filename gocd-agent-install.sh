@@ -82,7 +82,7 @@ done
 
 # change ownership and mode, so that the `go` user, and only that user
 # can write to these directories
-if [ "${GO_USER_ONLY}" == "si" ]; then
+if [ "${GO_USER_ONLY}" = "si" ]; then
   chown -R go:go ${AGENT_HOME}
   chmod -R 0750 ${AGENT_HOME}
 fi
@@ -98,7 +98,7 @@ sed -i -e "s@=go-agent\$@=${AGENT_ID}@g" \
 sed -i -e "s@/var/lib/go-agent@${AGENT_HOME}/lib@g" ${AGENT_HOME}/wrapper-config/wrapper-properties.conf
 
 # install the service 
-if [ "${START_SERVICE_NOW}" == "si" ]; then
+if [ "${START_SERVICE_NOW}" = "si" ]; then
   ${AGENT_HOME}/bin/go-agent installstart
 else
   ${AGENT_HOME}/bin/go-agent install
