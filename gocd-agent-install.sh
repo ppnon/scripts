@@ -1,4 +1,13 @@
 #!/bin/bash
+# 1. download the agent in zip format and unzip it in /opt/go-agent/go-agent-01
+# 2. download java jdk and unzip it in the directory of your preference, for example /opt/go-agent/java
+# 3. configure the agent editing the file go-agent-01/wrapper-config/wrapper-properties.conf
+# 	wrapper.app.parameter.101=https://127.0.0.1:8154/go
+#	wrapper.app.parameter.102=sslVerificationMode
+#   wrapper.app.parameter.103=NONE
+#   wrapper.app.parameter.104=/opt/go-agent/java/bin/java
+# 4. test the agent: sh go-agent-01/bin/go-agent console
+# 5. check service running: systemctl status go-agent-01.service
 
 REGEX_DIGIT='^[0-9]+$'
 REGEX_BOOLEAN='^[s][i]|[n][o]$'
@@ -95,4 +104,12 @@ else
   ${AGENT_HOME}/bin/go-agent install
 fi
 
-exit 1
+exit 0
+
+# to uninstall a service do this:
+# systemctl stop [servicename]
+# systemctl disable [servicename]
+# rm /etc/systemd/system/[servicename]
+# rm /etc/systemd/system/[servicename] symlinks that might be related
+# systemctl daemon-reload
+# systemctl reset-failed
